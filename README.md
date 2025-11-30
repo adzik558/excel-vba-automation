@@ -1,4 +1,5 @@
 Automatyzacja raportów w Excelu z wykorzystaniem VBA - projekt szkoleniowy Udemy.com
+
 Projekt: QuarterlyReport.xlsm
 
 Projekt przedstawia kompletną automatyzację raportu kwartalnego w Excelu
