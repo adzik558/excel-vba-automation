@@ -26,10 +26,10 @@ w działach raportowania, finansów, controllingu oraz analityki sprzedaży.
 ├── README.md
 ├── QuarterlyReport.xlsm
 ├── src/
-    └── macros.bas
+|   └── macros.bas
 ├── data/
-    └── sample.xlsm
-├── plots/
+|   └── sample.xlsm
+└── plots/
     └── done.png
 
 ```
