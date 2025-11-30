@@ -20,6 +20,10 @@ w działach raportowania, finansów, controllingu oraz analityki sprzedaży.
 ├── QuarterlyReport.xlsm
 ├── src/
     └── macros.bas
+├── data/
+    └── sample.xlsm
+├── plots/
+    └── done.png
 
 ```
 
