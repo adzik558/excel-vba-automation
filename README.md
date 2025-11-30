@@ -1,6 +1,14 @@
-Automatyzacja raportów w Excelu z wykorzystaniem VBA - projekt szkoleniowy Udemy.com
+## Informacja prawna
+Projekt powstał na podstawie materiałów ze szkolenia Udemy. 
+Kod został zmodyfikowany i dostosowany przeze mnie, jednak pełne prawa 
+autorskie do materiałów szkoleniowych należą do autora kursu - Kyle Pew.
+Repozytorium służy jedynie jako prezentacja umiejętności.
+
+
+## Automatyzacja raportów w Excelu z wykorzystaniem VBA - projekt szkoleniowy Udemy.com
 
 Projekt: QuarterlyReport.xlsm
+
 
 Projekt przedstawia kompletną automatyzację raportu kwartalnego w Excelu
 z wykorzystaniem makr w języku **VBA**.  
