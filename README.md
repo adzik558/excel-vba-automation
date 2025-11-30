@@ -103,6 +103,9 @@ Wszystkie makra są refaktoryzowane i **nie używają `.Select` ani `ActiveCell`
 7. Gotowe!  
    Wyniki pojawią się w arkuszu **YEARLY REPORT**.
 
+<img width="1918" height="1028" alt="done" src="https://github.com/user-attachments/assets/d62a1410-6016-494c-8358-7b38fab814f6" />
+
+
 ---
 
 ## Przykładowy efekt działania makra
