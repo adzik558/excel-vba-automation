@@ -87,7 +87,7 @@ Wszystkie makra są refaktoryzowane i **nie używają `.Select` ani `ActiveCell`
 2. Otwórz go sample.xlsm w Excelu.
 3. Włącz obsługę makr:  
    **Plik → Opcje → Centrum zaufania → Ustawienia Centrum zaufania → Ustawienia makr → Włącz makra.**
-4. (Opcjonalnie) Włącz zakładkę **Deweloper**:  
+4. Włącz zakładkę **Deweloper**:  
    Plik → Opcje → Dostosuj wstążkę → zaznacz „Deweloper”.
 5. Importuj makro:  
    **Deweloper → Visual basic → Import File → wybierz `macro.bas`**
