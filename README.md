@@ -12,6 +12,17 @@ w działach raportowania, finansów, controllingu oraz analityki sprzedaży.
 
 ---
 
+## Struktura repozytorium
+
+```plaintext excel-vba-automation/
+├── README.md
+├── LICENSE
+├── QuarterlyReport.xlsm
+├── src/
+    └── macros.bas
+
+```
+
 ## Funkcjonalność projektu
 
 Makra automatyzują:
