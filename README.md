@@ -22,7 +22,8 @@ w działach raportowania, finansów, controllingu oraz analityki sprzedaży.
 
 ## Struktura repozytorium
 
-```plaintext excel-vba-automation/
+```plaintext
+excel-vba-automation/
 ├── README.md
 ├── QuarterlyReport.xlsm
 ├── src/
