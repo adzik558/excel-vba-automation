@@ -89,7 +89,7 @@ Wszystkie makra są refaktoryzowane i **nie używają `.Select` ani `ActiveCell`
    **Plik → Opcje → Centrum zaufania → Ustawienia Centrum zaufania → Ustawienia makr → Włącz makra.**
 4. (Opcjonalnie) Włącz zakładkę **Deweloper**:  
    Plik → Opcje → Dostosuj wstążkę → zaznacz „Deweloper”.
-5. Importuj makro
+5. Importuj makro:
    **Deweloper → Visual basic → Import File → wybierz `macro.bas`**
 5. Uruchom makro:  
    **Deweloper → Makra → wybierz `CreateYearlyReport` → Uruchom**
